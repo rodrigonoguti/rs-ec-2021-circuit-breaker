@@ -1,3 +1,7 @@
+Ps: just forking Rodrigo Botti's repository in order to make some tests by myself
+
+---
+
 ![](https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg)
 
 # Patterns de Resiliência: Circuit Breaker
